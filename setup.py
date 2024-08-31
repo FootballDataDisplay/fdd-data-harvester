@@ -10,6 +10,6 @@ setup(
     long_description_content_type='text/markdown',
     install_requires=['pandas', 'requests', 'beautifulsoup4', 'matplotlib', 'seaborn'],
     url='https://github.com/FootballDataDisplay/fdd-data-harvester',
-    author='Your Name',
-    author_email='your.email@example.com'
+    author='Roman Prast',
+    author_email='romanprast@gmail.com'
 )
